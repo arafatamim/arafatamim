@@ -12,7 +12,7 @@ Hi, I'm Tamim 👋
 
 > I started programming at 14 with QuickBASIC and never really stopped. Since then I've worked with JavaScript, Dart, Python, Go, and I'm currently learning Rust. For the past five years I've been building web and mobile apps, sometimes for work, mostly because I genuinely enjoy it. I also dabble in 3D, graphic design, and video editing. When I'm not at a screen, I'm usually tinkering with something or figuring out how things work.
 
-🖥️  [My portfolio](http://arafatamim.im/projects)
+🖥️  [My portfolio](http://arafatam.im/projects)
 
 ### Other links
 
